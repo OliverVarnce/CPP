@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mac/Desktop/vb/Sprint05/t00/app/src/Draugr.cpp
+Draugr.h
+/Users/mac/Desktop/vb/Sprint05/t00/app/src/Draugr.h
+
+/Users/mac/Desktop/vb/Sprint05/t00/app/src/Draugr.h
+map
+-
+string
+-
+iostream
+-
+
